@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\RevitAPIWallVolume.dll"</Assembly>
+		<AddInId>B013671C-CA9D-4FA0-A86E-CBC46B986F99</AddInId>
+		<FullClassName>RevitAPIWallVolume.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>WallVolume</Text>
+	</AddIn>
+</RevitAddIns>
